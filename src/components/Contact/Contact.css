@@ -1,0 +1,17 @@
+.contact {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-info {
+    width: 500px;
+    text-align: center;
+    padding: 20px;
+    background-color: lightgray;
+}
+.social {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}

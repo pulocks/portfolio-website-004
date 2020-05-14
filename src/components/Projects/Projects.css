@@ -1,0 +1,11 @@
+.projects {
+    margin-top: 100px;
+}
+.card-title {
+    text-align: center;
+    background-color: lightblue;
+    padding: 20px;
+}
+.card-footer {
+    border-top: none;
+}

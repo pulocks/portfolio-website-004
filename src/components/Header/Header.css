@@ -1,0 +1,13 @@
+.header{
+    background-color: cyan;
+    padding: 20px;
+}
+.bg-black{
+    background-color: black;
+}
+.navigation{
+    text-align: center;
+}
+nav a{
+    color: white;
+}
