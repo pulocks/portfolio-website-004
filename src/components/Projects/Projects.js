@@ -2,7 +2,7 @@ import React from 'react';
 import './Projects.css';
 import project1 from '../../images/restaurant-web.png';
 import project2 from '../../images/Screenshot_Pioneer Bank.png';
-import project3 from '../../images/Capture0.JPG';
+import project3 from '../../images/calc.JPG';
 
 const Projects = () => {
     return (
@@ -29,13 +29,13 @@ const Projects = () => {
                     </div>
                 </div>
                 <div class="card">
-                    <h4 class="card-title">Shopping Cart</h4>
+                    <h4 class="card-title">Calculator</h4>
                     <a href={project3} download><img src={project3} className="card-img-top" alt="..."/></a>
                     <div class="card-body">
-                        <p class="card-text">A simple Shopping Cart. Users will increment or decrement the items in the list by simply click plus or minus button. Amount of the order will be increased or decreased accordingly.</p>
+                        <p class="card-text">A simple Scientific Calculator to perform mathematical calculation.</p>
                     </div>
                     <div style={{textAlign: 'center'}} class="card-footer">
-                        <a href="https://shopping-cart-003.netlify.app" target="blank"><button className="btn btn-success">View Website</button></a>
+                        <a href="https://simple-00-calculator.netlify.app" target="blank"><button className="btn btn-success">View Website</button></a>
                     </div>
                 </div>
             </div>

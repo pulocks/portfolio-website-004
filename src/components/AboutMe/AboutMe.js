@@ -4,8 +4,8 @@ import './AboutMe.css';
 const AboutMe = () => {
 
     const expertiseLevel = [
-        {id: 1, topic: 'HTML', level: 90}, {id: 2, topic: 'CSS', level: 90}, {id: 3, topic: 'JavaScript', level: 80}, 
-        {id: 4, topic: 'React', level: 80}, {id: 5, topic: 'BootStrap', level: 75}, {id: 6, topic: 'Node', level: 60}, 
+        {id: 1, topic: 'HTML', level: 80}, {id: 2, topic: 'CSS', level: 80}, {id: 3, topic: 'JavaScript', level: 75}, 
+        {id: 4, topic: 'React', level: 75}, {id: 5, topic: 'BootStrap', level: 70}, {id: 6, topic: 'Node', level: 60}, 
         {id: 7, topic: 'MongoDB', level: 60}, {id: 8, topic: 'Redux', level: 50}, {id: 9, topic: 'Firebase', level: 65}
     ];
 
